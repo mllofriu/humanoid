@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2962/trunk/humanoid_stacks/nao_common/nao_remote/src
+END
+remap_odometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2744/trunk/humanoid_stacks/nao_common/nao_remote/src/remap_odometry.cpp
+END
+nao_path_follower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2962/trunk/humanoid_stacks/nao_common/nao_remote/src/nao_path_follower.cpp
+END

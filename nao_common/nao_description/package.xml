@@ -1,0 +1,20 @@
+<package>
+	<name>nao_description</name>
+	<version>0.0.0</version>
+	<maintainer email="ludo@todo.todo">ludo</maintainer>
+	<description>
+	URDF robot model of the Nao humanoid, to be used with robot_state_publisher
+
+	nao_description - Description of the Nao robot model that can be used with robot_state_publisher
+	 to display the robot's state of joint angles.
+
+	</description>
+	<author>Armin Hornung, Stefan Osswald</author>
+	<license>BSD</license>
+	<url>http://ros.org/wiki/nao_description</url>
+	<buildtool_depend>catkin</buildtool_depend>
+	<run_depend> urdf</run_depend>
+	<run_depend>robot_state_publisher</run_depend>
+</package>
+
+

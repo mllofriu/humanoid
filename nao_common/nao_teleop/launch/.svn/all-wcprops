@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_teleop/launch
+END
+teleop_joy.launch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_teleop/launch/teleop_joy.launch
+END
+ps3controller.launch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_teleop/launch/ps3controller.launch
+END
+teleop_nao.launch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_teleop/launch/teleop_nao.launch
+END

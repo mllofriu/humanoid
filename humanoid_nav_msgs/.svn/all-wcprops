@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4252/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2712/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/mainpage.dox
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4251/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/package.xml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4251/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2712/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4251/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/manifest.xml
+END

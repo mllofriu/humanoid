@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ludo/workspace/rosbuild_ws/humanoid_stack/humanoid_msgs/humanoid_nav_msgs/build/devel/setup.sh

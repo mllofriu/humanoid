@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4252/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/srv
+END
+PlanFootsteps.srv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2970/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/srv/PlanFootsteps.srv
+END
+StepTargetService.srv
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2712/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/srv/StepTargetService.srv
+END
+LocalizeFromPointCloud.srv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4252/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/srv/LocalizeFromPointCloud.srv
+END
+ClipFootstep.srv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2712/trunk/humanoid_stacks/humanoid_msgs/humanoid_nav_msgs/srv/ClipFootstep.srv
+END

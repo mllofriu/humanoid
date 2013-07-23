@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3821/trunk/humanoid_stacks/nao_common/nao_remote/scripts
+END
+nao_imu_conversion.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3821/trunk/humanoid_stacks/nao_common/nao_remote/scripts/nao_imu_conversion.py
+END
+print_odometry.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_remote/scripts/print_odometry.py
+END
+pose_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2737/trunk/humanoid_stacks/nao_common/nao_remote/scripts/pose_manager.py
+END
+execute_pose.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2738/trunk/humanoid_stacks/nao_common/nao_remote/scripts/execute_pose.py
+END

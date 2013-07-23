@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3692/trunk/humanoid_stacks/nao_robot/nao_msgs/msg
+END
+JointAngleTrajectory.msg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/JointAngleTrajectory.msg
+END
+TorsoIMU.msg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/TorsoIMU.msg
+END
+WordRecognized.msg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3692/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/WordRecognized.msg
+END
+TactileTouch.msg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/TactileTouch.msg
+END
+TorsoOdometry.msg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/TorsoOdometry.msg
+END
+JointAnglesWithSpeed.msg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/JointAnglesWithSpeed.msg
+END
+FadeRGB.msg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3649/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/FadeRGB.msg
+END
+Bumper.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/msg/Bumper.msg
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3821/trunk/humanoid_stacks/nao_common
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/Makefile
+END
+stack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/stack.xml
+END

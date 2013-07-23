@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3649/trunk/humanoid_stacks/nao_robot/nao_msgs/action
+END
+RunBehavior.action
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3047/trunk/humanoid_stacks/nao_robot/nao_msgs/action/RunBehavior.action
+END
+BodyPose.action
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/action/BodyPose.action
+END
+JointAnglesWithSpeed.action
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/action/JointAnglesWithSpeed.action
+END
+JointTrajectory.action
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/action/JointTrajectory.action
+END
+Blink.action
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3649/trunk/humanoid_stacks/nao_robot/nao_msgs/action/Blink.action
+END
+FollowPath.action
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2962/trunk/humanoid_stacks/nao_robot/nao_msgs/action/FollowPath.action
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3047/trunk/humanoid_stacks/nao_robot/nao_msgs/srv
+END
+CmdVelService.srv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/srv/CmdVelService.srv
+END
+CmdPoseService.srv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/srv/CmdPoseService.srv
+END
+GetInstalledBehaviors.srv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3047/trunk/humanoid_stacks/nao_robot/nao_msgs/srv/GetInstalledBehaviors.srv
+END
+GetTruepose.srv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_msgs/srv/GetTruepose.srv
+END

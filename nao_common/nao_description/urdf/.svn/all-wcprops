@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/urdf
+END
+visuals.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/urdf/visuals.xacro
+END
+nao_robot_v3.urdf.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/urdf/nao_robot_v3.urdf.xacro
+END
+nao_robot_v3_structure.urdf.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/urdf/nao_robot_v3_structure.urdf.xacro
+END
+nao_robot_v4.urdf.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/urdf/nao_robot_v4.urdf.xacro
+END
+nao_robot_v4_structure.urdf.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/urdf/nao_robot_v4_structure.urdf.xacro
+END

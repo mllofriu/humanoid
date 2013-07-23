@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3513/trunk/humanoid_stacks/nao_robot/nao_driver/launch
+END
+nao_driver.launch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/launch/nao_driver.launch
+END
+nao_driver_sim.launch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2716/trunk/humanoid_stacks/nao_robot/nao_driver/launch/nao_driver_sim.launch
+END
+nao_footsteps.launch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3513/trunk/humanoid_stacks/nao_robot/nao_driver/launch/nao_footsteps.launch
+END

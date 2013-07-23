@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4261/trunk/humanoid_stacks/nao_robot/nao_driver/scripts
+END
+camera_walk_pose.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/camera_walk_pose.py
+END
+scan_pose_bending.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/scan_pose_bending.py
+END
+start_walk_pose.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/start_walk_pose.py
+END
+naoros.env
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/naoros.env
+END
+nao_speech.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3692/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_speech.py
+END
+nao_diagnostic_updater.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_diagnostic_updater.py
+END
+headscan.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/headscan.py
+END
+scan_pose.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/scan_pose.py
+END
+test_joint_angles.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3422/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/test_joint_angles.py
+END
+send_camera_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2757/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/send_camera_info.py
+END
+nao_behaviors.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3648/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_behaviors.py
+END
+nao_controller.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2737/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_controller.py
+END
+nao_walker.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4258/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_walker.py
+END
+nao_tactile.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_tactile.py
+END
+nao_footsteps.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3809/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_footsteps.py
+END
+crouch.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/crouch.py
+END
+iros2011_scan.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/iros2011_scan.py
+END
+nao_leds.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3649/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_leds.py
+END
+nao_footstep_clipping.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_footstep_clipping.py
+END
+nao_camera.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4261/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_camera.py
+END
+test_footsteps.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/test_footsteps.py
+END
+headscanTop.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/headscanTop.py
+END
+init_pose.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/init_pose.py
+END
+nao_sensors.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/scripts/nao_sensors.py
+END

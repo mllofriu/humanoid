@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/src/nao_driver
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/src/nao_driver/__init__.py
+END
+nao_driver_naoqi.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_robot/nao_driver/src/nao_driver/nao_driver_naoqi.py
+END

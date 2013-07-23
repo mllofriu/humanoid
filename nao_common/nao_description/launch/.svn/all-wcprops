@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/launch
+END
+nao_v3_publisher.launch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/launch/nao_v3_publisher.launch
+END
+nao_v4_publisher.launch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/launch/nao_v4_publisher.launch
+END
+nao_state_publisher.launch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_description/launch/nao_state_publisher.launch
+END

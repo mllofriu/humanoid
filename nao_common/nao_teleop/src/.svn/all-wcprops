@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2804/trunk/humanoid_stacks/nao_common/nao_teleop/src
+END
+teleop_nao_joy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2804/trunk/humanoid_stacks/nao_common/nao_teleop/src/teleop_nao_joy.cpp
+END
+teleop_nao_joy_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2753/trunk/humanoid_stacks/nao_common/nao_teleop/src/teleop_nao_joy_node.cpp
+END

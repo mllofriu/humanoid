@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3821/trunk/humanoid_stacks/nao_common/nao_remote/launch
+END
+nao_remote.launch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3821/trunk/humanoid_stacks/nao_common/nao_remote/launch/nao_remote.launch
+END
+teleop_nao_sim.launch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2712/trunk/humanoid_stacks/nao_common/nao_remote/launch/teleop_nao_sim.launch
+END
