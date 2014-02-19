@@ -123,7 +123,7 @@ class NaoCam (NaoNode):
                 img.encoding = encoding
                 img.step = img.width * nbLayers
     		if len(images) >= 2:
-                    	img.data = images[2][len(images[2])/2 * i:len(images[2])/2 *(i+1) + 1]
+                    	img.data = images[2][(len(images[2])/2 * i):(len(images[2])/2 *(i+1))]
     		else:
     			img.data = []
     			print "image with no data"

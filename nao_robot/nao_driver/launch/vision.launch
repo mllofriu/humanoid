@@ -24,7 +24,7 @@
 			kQVGA = 1                # 320*240
 			kQQVGA = 0               # 160*120
 	-->
-  	<param name="quality" type="int" value="0"/>
+  	<param name="quality" type="int" value="2"/>
   	<param name="topCamParams" type="string" value="package://nao_driver/config/topCamCalib.yml"/>
   	<param name="bottomCamParams" type="string" value="package://nao_driver/config/bottomCamCalib.yml"/>
   </node>
