@@ -1,0 +1,32 @@
+<launch>
+  <!-- 
+  -->
+  
+  <!-- 
+  	This pushes the local PYTHONPATH into the launch file, so that the NaoQI API is found.
+    You need to add the Nao's API dir to your PYTHONPATH so that the modules are found.
+  -->
+  <env name="PYTHONPATH" value="$(env PYTHONPATH)" /> 
+
+  <arg name="nao_ip" default="$(optenv NAO_IP 127.0.0.1)" />
+  <arg name="nao_port" default="$(optenv NAO_PORT 9559)" />
+  
+
+  
+  <node pkg="nao_driver" type="nao_camera_both.py" name="nao_camera_both" respawn="true"  args="--pip=$(arg nao_ip) --pport=$(arg nao_port)" output="screen">
+  	<param name="camera_switch" type="int" value="1"/>
+  	<param name="fps" type="int" value="30"/>
+  	<!-- 
+  		Image quality constants
+			k960p = 3                # 1280*960
+			k4VGA = 3                # 1280*960
+			kVGA = 2                 # 640*480
+			kQVGA = 1                # 320*240
+			kQQVGA = 0               # 160*120
+	-->
+  	<param name="quality" type="int" value="0"/>
+  	<param name="topCamParams" type="string" value="package://nao_driver/config/topCamCalib.yml"/>
+  	<param name="bottomCamParams" type="string" value="package://nao_driver/config/bottomCamCalib.yml"/>
+  </node>
+
+</launch>
